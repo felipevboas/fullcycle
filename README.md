@@ -1,2 +1,2 @@
-# fullcycle
-Repositório para guardar os projetos do curso Full Cycle
+# Full Cycle
+Repositório para guardar os projetos desenvolvidos no curso Full Cycle
